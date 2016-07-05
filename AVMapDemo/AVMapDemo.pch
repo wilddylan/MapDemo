@@ -1,0 +1,23 @@
+//
+//  AVMapDemo.pch
+//  AVMapDemo
+//
+//  Created by Dylan on 16/7/5.
+//  Copyright © 2016年 Dylan. All rights reserved.
+//
+
+#ifndef AVMapDemo_pch
+#define AVMapDemo_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define AVMapKey @"be63a5156fee38275abd0af25bd91186"
+
+#import <MAMapKit/MAMapKit.h>
+#import <AMapSearchKit/AMapSearchKit.h>
+#import <AMapFoundationKit/AMapFoundationKit.h>
+#import <AMapNaviKit/AMapNaviKit.h>
+#import <AudioToolbox/AudioToolbox.h>
+
+#endif /* AVMapDemo_pch */
